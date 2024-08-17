@@ -1,0 +1,1 @@
+export const PRODUCT_SLICE: string = "productSlice"
